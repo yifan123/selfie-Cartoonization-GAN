@@ -12,7 +12,7 @@ We build two new datasets
 
   <img src="images/44.jpg" width = "250" height = "250">
 
-  <img src="images/63.jpg" width = "250" height = "250">
+  <img src="images/63.jpg" width = "260" height = "260">
 
 - an identification photo dataset.
 
