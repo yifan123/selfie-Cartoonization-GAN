@@ -8,11 +8,11 @@ We build two new datasets
 
   ![dataset](images/dataset.jpg)
 
-  <img src="images/28.jpg" width = "150" height = "150">
+  <img src="images/28.jpg" width = "250" height = "250">
 
-  <img src="images/44.jpg" width = "200" height = "200">
+  <img src="images/44.jpg" width = "250" height = "250">
 
-  <img src="images/63.jpg" width = "130" height = "130">
+  <img src="images/63.jpg" width = "250" height = "250">
 
 - an identification photo dataset.
 
