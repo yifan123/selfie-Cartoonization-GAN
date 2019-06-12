@@ -35,7 +35,7 @@ The following are dataset information.
 | ------------ | ---------- |
 | Hand-painted | 311        |
 
-If you need hand-painted to do research, welcome to email me or add a issue. I can not upload it to github because the hand-painted images are crawled from customer comments of Taobao stores. I didn't get their  authorization.
+If you need hand-painted to do research, welcome to email me or add an issue. I can not upload it to github because the hand-painted images are crawled from customer comments of Taobao stores. I didn't get their  authorization.
 
 The following are our results.
 
