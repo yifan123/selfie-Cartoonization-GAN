@@ -8,11 +8,11 @@ We build two new datasets
 
   ![dataset](images/dataset.jpg)
 
-  <img src="images/28.jpg" style="zoom:80">
+  <img src="images/28.jpg" width = "250" height = "250">
 
-  <img src="images/44.jpg" style="zoom:80">
+  <img src="images/44.jpg" width = "250" height = "250">
 
-  <img src="images/63.jpg" style="zoom:80">
+  <img src="images/63.jpg" width = "260" height = "260">
 
 - an identification photo dataset.
 
@@ -35,7 +35,7 @@ The following are dataset information.
 | ------------ | ---------- |
 | Hand-painted | 311        |
 
-If you need hand-painted to do research, welcome to email me. I can not upload it to github because the hand-painted images are crawled from customer comments of Taobao stores. I didn't get their  authorization.
+If you need hand-painted to do research, welcome to email me or add an issue. I can not upload it to github because the hand-painted images are crawled from customer comments of Taobao stores. I didn't get their  authorization.
 
 The following are our results.
 
