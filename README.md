@@ -4,7 +4,7 @@ This is our project which can convert a selfie to a hand-painted cartoon image b
 
 We build two new datasets 
 
-- a hand-painted cartoon image dataset;
+- a hand-painted cartoon image [dataset](<https://github.com/yifan123/selfie-Cartoonization-GAN/tree/master/dataset/selfie>);
 
   ![dataset](images/dataset.jpg)
 
@@ -34,8 +34,6 @@ The following are dataset information.
 | **Style**    | **Numers** |
 | ------------ | ---------- |
 | Hand-painted | 311        |
-
-If you need hand-painted to do research, welcome to email me or add an issue. I can not upload it to github because the hand-painted images are crawled from customer comments of Taobao stores. I didn't get their  authorization.
 
 The following are our results.
 
